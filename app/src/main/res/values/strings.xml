@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLab1</string>
+    <string name="phone_text">Phone: 89501231234</string>
+    <string name="link_text">TG: \@Bruh</string>
+    <string name="mail_text">Email: my_email@some.mail</string>
+    <string name="name_text">Yuri Kochurov</string>
+    <string name="post_text">Student</string>
+</resources>
